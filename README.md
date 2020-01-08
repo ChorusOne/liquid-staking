@@ -16,12 +16,13 @@ The approaches we will investigate include:
 The deliverable for the project are as follows:
 - A research report (30+ pages) 
 - An executive summary of the research (< 10 pages)
+[- a curated list of liquid staking products, services and ideas](/awesome-liquid-staking.md) 
 
 Within the research report we would try to take a 360° view of staking derivatives, covering the following areas: 
-- governance impact
+- impact on network security
 - centralization risks
-- impact on Cosmos Hub security
-- competition with other networks
+- impact on network governance
+- competition between networks and protocols
 - risks and benefits of financialization
 - staking in a cross-chain context e.g. moving assets to / through low security zones, bridges & peg zones, impact on shared security & launching new chains
 
