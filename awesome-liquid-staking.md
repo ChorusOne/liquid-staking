@@ -9,6 +9,7 @@
   - [Delegated Account Control](#delegated-account-control)
 - [Native / In-Protocol](#native-in-protocol)
   - [Delegation Vouchers](#delegation-vouchers)
+  - [B-Harvest](#transfer-of-delegation-onwership)
 - [Custodial](#non-custodial)
   - [Exchanges](#exchanges) 
 - [Research & Development](#research-development)
@@ -21,7 +22,7 @@
 - [Lemniscap - Intro to Staking Derivatives](https://medium.com/lemniscap/an-intro-to-staking-derivatives-i-a43054efd51c)
 
 #### Podcasts
-- [Chorus One Podcast: Everett Project](https://chorusone.libsyn.com/11-batoms-a-design-for-fungible-staking-positions-with-ryan-park)<br/><br/>
+- [Chorus One Podcast: Everett Project](https://chorusone.libsyn.com/11-batoms-a-design-for-fungible-staking-positions-with-ryan-park)
 - [Chorus One Podcast: Delegation Vouchers](https://chorusone.libsyn.com/4-delegation-vouchers-a-design-concept-for-liquid-staking-positions)<br/><br/>
 
 ### Non-custodial
@@ -36,7 +37,10 @@
 ### Native / In-Protocol
 
 #### Delegation Vouchers
-- [Chorus One](https://blog.chorus.one/delegation-vouchers/)<br/><br/>
+- [Chorus One: Delegation Vouchers](https://blog.chorus.one/delegation-vouchers/)
+
+#### Transfer Of Delegation Ownership
+- [B-Harvest: Enabling transfer of delegation ownership](https://forum.cosmos.network/t/discussion-enabling-transfer-of-delegation-ownership/2324)<br/><br/>
 
 ### Custodial
 
