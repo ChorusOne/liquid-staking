@@ -1,4 +1,4 @@
-# Awesome Liquid Staking - A curated list of Liquid Staking projects
+# Awesome Liquid Staking - A curated list of Liquid Staking projects, ideas, papers and more
 
 ## Liquid Staking
 - [Non-Custodial](#non-custodial)
@@ -7,7 +7,9 @@
 - [Native / In-Protocol](#native-in-protocol)
   - [Delegation Vouchers](#delegation-vouchers)
 - [Custodial](#non-custodial)
-  - [Exchanges](#exchanges)<br/><br/>      
+  - [Exchanges](#exchanges) 
+- [Research](#research)
+  - [Research](#papers)<br/><br/>
   
 
 ### Non-custodial
@@ -29,4 +31,13 @@
 #### Exchanges
 - [Binance](https://www.binance.com/nl/staking)
 - [Kraken](https://www.kraken.com/en-us/features/staking-coins)
+- [KuCoin Pool-X](https://pool-x.io/staking)
+
+### Research
+
+#### Papers
+- [Competitive equilibria between staking and on-chain lending](https://arxiv.org/abs/2001.00919)
+
+
+
 
