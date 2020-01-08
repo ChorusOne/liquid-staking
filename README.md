@@ -6,11 +6,11 @@ During the four month project, we will explore the different ways staked assets 
 
 The approaches we will investigate include:
 - delegation vouchers
-- bAtoms / Everett model (including implications of interchain accounts / delegated account control)
-- B-Harvest delegation tranches
+- bAtoms / [Everett](https://www.everett.zone/) model (including implications of interchain accounts / delegated account control)
+- [B-Harvest](https://bharvest.io/) delegation tranches
 - Slashing insurance using prediction markets
-- the impact of decentralized control of assets using sMPC / BLS (tBTC, Ren, Herdius etc.)
-- centralized staking offerings from Binance, Poloniex, etc.
+- the impact of decentralized control of assets using sMPC / BLS ([tBTC](https://tbtc.network/), [Ren](https://renproject.io/), [Herdius](https://herdius.com/) etc.)
+- centralized staking offerings from Binance, Poloniex, Kraken etc.
 - various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
 
 Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328) and [Stafi](http://stafi.io/) as relevant projects to investigate.
@@ -46,5 +46,6 @@ Chorus Team project roles:
 - Brian Fabian Crain - Founder/CEO - Brian will prepare the executive summary
 - Meher Roy - Founder/CTO - Meher will be participate in the community calls, forum discussions etc.
 
-If you'd like to join the initiative please contact us as brendan@chorus.one.
+If you'd like to join the initiative please contact us as brendan@chorus.one or through the [Chorus One website](https://chorus.one)
+
 
