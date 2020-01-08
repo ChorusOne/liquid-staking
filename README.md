@@ -7,13 +7,13 @@ During the four month project, we will explore the different ways staked assets 
 The approaches we will investigate include:
 - Delegation vouchers
 - bAtoms / [Everett](https://www.everett.zone/) model (including implications of interchain accounts / delegated account control)
-- [B-Harvest](https://bharvest.io/) delegation tranches
+- [B-Harvest](https://bharvest.io/) delegation DEX and tranches
 - Slashing insurance using prediction markets
 - The impact of decentralized control of assets using sMPC / BLS ([tBTC](https://tbtc.network/), [Ren](https://renproject.io/), [Herdius](https://herdius.com/) etc.)
 - Centralized staking offerings from Binance, Poloniex, Kraken etc.
 - Various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
 
-Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328), [Stafi](http://stafi.io/) and [Cryptium's Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE) as relevant projects to investigate.
+Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328), [Stafi](http://stafi.io/), [Cryptium's Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE) and [Staker DAO](https://www.stakerdao.com/) as relevant projects to investigate.
 
 The deliverable for the project are as follows:
 - A research report (30+ pages) 
@@ -24,9 +24,10 @@ Within the research report we would try to take a 360° view of staking derivati
 - Impact on network security
 - Centralization risks
 - Impact on network governance
-- Competition between networks and protocols
+- Competition between protocols
 - Risks and benefits of financialization
-- Staking in a cross-chain context e.g. moving assets to / through low security zones, bridges & peg zones, impact on shared security & launching new chains
+- Staking in a cross-chain context, e.g. moving assets to / through low security zones, bridges & peg zones
+- Impact on shared security & launching new chains
 
 We will maintain the focus on making this a community initiative. We will run calls every two weeks for the duration of the project. The project duration is four months, so as to allow plenty of time for collecting and reviewing input from the community. 
 
