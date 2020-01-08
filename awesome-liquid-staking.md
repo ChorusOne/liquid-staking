@@ -8,6 +8,7 @@
 - [Non-Custodial](#non-custodial)
   - [Smart Contract / DAOs](#smart-contract-daos)
   - [Delegated Account Control](#delegated-account-control)
+  - [Programmable Staking](#programmable-staking)
 - [Native / In-Protocol](#native-in-protocol)
   - [Delegation Vouchers](#delegation-vouchers)
   - [B-Harvest](#transfer-of-delegation-onwership)
@@ -42,6 +43,9 @@
 #### Delegated Account Control
 - [Everett](https://www.everett.zone/)
 - [Stafi Protocol](https://docs.stafi.io/)<br/><br/>
+
+#### Programmable Staking
+- [Cryptium: Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE)<br/><br/>
 
 ### Native / In-Protocol
 
