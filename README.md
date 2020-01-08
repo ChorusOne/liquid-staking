@@ -13,7 +13,7 @@ The approaches we will investigate include:
 - Centralized staking offerings from Binance, Poloniex, Kraken etc.
 - Various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
 
-Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328) and [Stafi](http://stafi.io/) as relevant projects to investigate.
+Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328), [Stafi](http://stafi.io/) and [Cryptium's Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE) as relevant projects to investigate.
 
 The deliverable for the project are as follows:
 - A research report (30+ pages) 
