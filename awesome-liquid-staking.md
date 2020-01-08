@@ -19,7 +19,7 @@
   - [Research Papers](#research-papers)
   - [Detailed Technical Proposals](#detailed-technical-proposals)<br/><br/>
   
-### Blogs, Videos & Podcasts
+### Blogs, Videos, Podcasts
 
 #### Blogs
 - [Lemniscap - Intro to Staking Derivatives](https://medium.com/lemniscap/an-intro-to-staking-derivatives-i-a43054efd51c)
