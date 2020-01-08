@@ -1,6 +1,6 @@
 # liquid-staking
 
-Chorus One has received a grant to explore the concept of Liquid Staking (also referred to as Programmable Staking or Staking Derivatives). 
+Chorus One has received a grant from the [Interchain Foundation](https://interchain.io/) to explore the concept of Liquid Staking (also referred to as Programmable Staking or Staking Derivatives). 
 
 During the four month project, we will explore the different ways staked assets will be tokenized and the implications on the sustainability of the Internet of Blockchains.
 
@@ -47,5 +47,7 @@ Chorus Team project roles:
 - Meher Roy - Founder/CTO - Meher will be participate in the community calls, forum discussions etc.
 
 If you'd like to join the initiative please contact us as brendan@chorus.one or through the [Chorus One website](https://chorus.one)
+
+Our sincere thanks to all at the [Interchain Foundation](https://interchain.io/) for funding this work.
 
 
