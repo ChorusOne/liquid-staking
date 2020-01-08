@@ -7,19 +7,9 @@
   - [Native / In-Protocol](#native-in-protocol)
     - [Delegation Vouchers](#delegation-vouchers)
   - [Custodial](#non-custodial)
-    - [Exchanges](#exchanges)
+    - [Exchanges](#exchanges)     
   
-
-
-
-
-=========================================================
-
-
-
-
-
-
+=========================================================    
 
 ### Non-custodial
 
@@ -28,18 +18,12 @@
 
 #### Delegated Account Control
 - [Everett](https://www.everett.zone/)
-- [Stafi Protocol](https://docs.stafi.io/)
-
-
-
+- [Stafi Protocol](https://docs.stafi.io/)    
 
 ### Native / In-Protocol
 
 #### Delegation Vouchers
-- [Chorus One](https://blog.chorus.one/delegation-vouchers/)
-
-
-
+- [Chorus One](https://blog.chorus.one/delegation-vouchers/)    
 
 ### Custodial
 
