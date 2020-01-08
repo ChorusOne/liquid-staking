@@ -18,7 +18,7 @@
 ### Blogs, Podcasts & Tutorials
 
 #### Introduction Blogs
-- [Lemniscap - Intro to Staking Derivatives](https://medium.com/lemniscap/an-intro-to-staking-derivatives-i-a43054efd51c
+- [Lemniscap - Intro to Staking Derivatives](https://medium.com/lemniscap/an-intro-to-staking-derivatives-i-a43054efd51c)
 
 #### Podcasts
 - [Chorus One Podcast: Everett Project](https://chorusone.libsyn.com/11-batoms-a-design-for-fungible-staking-positions-with-ryan-park)<br/><br/>
