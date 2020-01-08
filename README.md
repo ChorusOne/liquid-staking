@@ -13,6 +13,8 @@ The approaches we will investigate include:
 - centralized staking offerings from Binance, Poloniex, etc.
 - various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
 
+Note: since ICF funding was approved we've also identified Stake Capital DAO and Stafi as relevant projects to investigate.
+
 The deliverable for the project are as follows:
 - A research report (30+ pages) 
 - An executive summary of the research (< 10 pages)  
