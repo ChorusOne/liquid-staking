@@ -5,13 +5,13 @@ Chorus One has received a grant to explore the concept of Liquid Staking (also r
 During the four month project, we will explore the different ways staked assets will be tokenized and the implications on the sustainability of the Internet of Blockchains.
 
 The approaches we will investigate include:
-- delegation vouchers
+- Delegation vouchers
 - bAtoms / [Everett](https://www.everett.zone/) model (including implications of interchain accounts / delegated account control)
 - [B-Harvest](https://bharvest.io/) delegation tranches
 - Slashing insurance using prediction markets
-- the impact of decentralized control of assets using sMPC / BLS ([tBTC](https://tbtc.network/), [Ren](https://renproject.io/), [Herdius](https://herdius.com/) etc.)
-- centralized staking offerings from Binance, Poloniex, Kraken etc.
-- various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
+- The impact of decentralized control of assets using sMPC / BLS ([tBTC](https://tbtc.network/), [Ren](https://renproject.io/), [Herdius](https://herdius.com/) etc.)
+- Centralized staking offerings from Binance, Poloniex, Kraken etc.
+- Various staking pool designs, particularly DAO-like models where ownership of a share of the pool is controlled by a token
 
 Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328) and [Stafi](http://stafi.io/) as relevant projects to investigate.
 
@@ -21,12 +21,12 @@ The deliverable for the project are as follows:
 - [a curated list of liquid staking products, services and ideas](/awesome-liquid-staking.md) 
 
 Within the research report we would try to take a 360° view of staking derivatives, covering the following areas: 
-- impact on network security
-- centralization risks
-- impact on network governance
-- competition between networks and protocols
-- risks and benefits of financialization
-- staking in a cross-chain context e.g. moving assets to / through low security zones, bridges & peg zones, impact on shared security & launching new chains
+- Impact on network security
+- Centralization risks
+- Impact on network governance
+- Competition between networks and protocols
+- Risks and benefits of financialization
+- Staking in a cross-chain context e.g. moving assets to / through low security zones, bridges & peg zones, impact on shared security & launching new chains
 
 We will maintain the focus on making this a community initiative. We will run calls every two weeks for the duration of the project. The project duration is four months, so as to allow plenty of time for collecting and reviewing input from the community. 
 
@@ -36,9 +36,9 @@ The first milestones:
 - Second community call - Wednesday, Jan 29th @ 5pm CET
 
 Agenda for first call:
-- overview of liquid staking
-- introduction to some of the potential challenges
-- discussion on Design Principles - what are the characteristics we'd like to see in an ideal liquid staking model?
+- Overview of liquid staking
+- Introduction to some of the potential challenges
+- Discussion on Design Principles - what are the characteristics we'd like to see in an ideal liquid staking model?
 
 Chorus Team project roles:
 - Brendan Dillon - Strategy & Bus. Dev. - Brendan will be the overall project coordinator
