@@ -1,13 +1,13 @@
-## Awesome Liquid Staking - A curated list of Liquid Staking projects
+# Awesome Liquid Staking - A curated list of Liquid Staking projects
 
-- Liquid Staking
-  - [Non-Custodial](#non-custodial)
-    - [Smart Contract / DAOs](#smart-contract-daos)
-    - [Delegated Account Control](#delegated-account-control)
-  - [Native / In-Protocol](#native-in-protocol)
-    - [Delegation Vouchers](#delegation-vouchers)
-  - [Custodial](#non-custodial)
-    - [Exchanges](#exchanges)<br/><br/>      
+## Liquid Staking
+- [Non-Custodial](#non-custodial)
+  - [Smart Contract / DAOs](#smart-contract-daos)
+  - [Delegated Account Control](#delegated-account-control)
+- [Native / In-Protocol](#native-in-protocol)
+  - [Delegation Vouchers](#delegation-vouchers)
+- [Custodial](#non-custodial)
+  - [Exchanges](#exchanges)<br/><br/>      
   
 
 ### Non-custodial
