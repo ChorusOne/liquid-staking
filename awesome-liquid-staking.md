@@ -42,7 +42,7 @@
 
 #### Delegated Account Control
 - [Everett](https://www.everett.zone/)
-- [Stafi Protocol](https://docs.stafi.io/)<br/><br/>
+- [Stafi Protocol](https://docs.stafi.io/)
 
 #### Programmable Staking
 - [Cryptium: Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE)<br/><br/>
