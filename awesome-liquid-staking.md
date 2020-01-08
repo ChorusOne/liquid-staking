@@ -1,7 +1,7 @@
 # Awesome Liquid Staking - A curated list of Liquid Staking projects, ideas, papers and more
 
 ## Liquid Staking
-- [Blogs, Videos, Podcasts & Tutorials](#blogs-videos-podcasts)
+- [Blogs, Videos, Podcasts](#blogs-videos-podcasts)
   - [Blogs](#blogs)
   - [Videos](#videos)  
   - [Podcasts](#podcasts)  
