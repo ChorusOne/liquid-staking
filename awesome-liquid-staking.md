@@ -22,8 +22,8 @@
 
 #### Blogs
 - [Lemniscap - Intro to Staking Derivatives](https://medium.com/lemniscap/an-intro-to-staking-derivatives-i-a43054efd51c)
-- [Dan Elitzer - Superfluid Collateral and Staking Derivatives](https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac
-https://medium.com/ideo-colab/the-deth-of-ethereum-98553866e81b?)
+- [Dan Elitzer - Superfluid Collateral and Staking Derivatives](https://tokeneconomy.co/superfluid-collateral-in-open-finance-8c3db15efac)
+- [Dan Elitzer - The DETH of Ethereum](https://medium.com/ideo-colab/the-deth-of-ethereum-98553866e81b?)
 - [How Defi Cannibalizes PoS Security by Hasseb Qureshi](https://medium.com/dragonfly-research/how-defi-cannibalizes-pos-security-84b146f00697)
 
 #### Videos
@@ -56,10 +56,10 @@ https://medium.com/ideo-colab/the-deth-of-ethereum-98553866e81b?)
 #### Exchanges
 - [Binance](https://www.binance.com/nl/staking)
 - [Kraken](https://www.kraken.com/en-us/features/staking-coins)
-- [KuCoin Pool-X](https://pool-x.io/staking)<br/><br/>
+- [KuCoin Pool-X](https://pool-x.io/staking)
 
 #### Other
-- [Vest - Staking Reward Options](https://vest.io/#/)
+- [Vest - Staking Reward Options](https://vest.io/#/)<br/><br/>
 
 ### Research & Development
 
