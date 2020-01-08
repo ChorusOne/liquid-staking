@@ -16,7 +16,7 @@ The approaches we will investigate include:
 The deliverable for the project are as follows:
 - A research report (30+ pages) 
 - An executive summary of the research (< 10 pages)  
-[- a curated list of liquid staking products, services and ideas](/awesome-liquid-staking.md) 
+- [a curated list of liquid staking products, services and ideas](/awesome-liquid-staking.md) 
 
 Within the research report we would try to take a 360° view of staking derivatives, covering the following areas: 
 - impact on network security
