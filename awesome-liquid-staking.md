@@ -6,16 +6,16 @@
   - [Videos](#videos)  
   - [Podcasts](#podcasts)  
 - [Non-Custodial](#non-custodial)
-  - [Smart Contract / DAOs](#smart-contract-daos)
+  - [Smart Contract DAOs](#smart-contract-daos)
   - [Delegated Account Control](#delegated-account-control)
   - [Programmable Staking](#programmable-staking)
-- [Native / In-Protocol](#native-in-protocol)
+- [Native In-Protocol](#native-in-protocol)
   - [Delegation Vouchers](#delegation-vouchers)
   - [B-Harvest](#transfer-of-delegation-onwership)
 - [Custodial](#non-custodial)
   - [Exchanges](#exchanges)
   - [Other](#other)
-- [Research & Development](#research-development)
+- [Research and Development](#research-and-development)
   - [Research Papers](#research-papers)
   - [Detailed Technical Proposals](#detailed-technical-proposals)<br/><br/>
   
@@ -36,7 +36,7 @@
 
 ### Non-custodial
 
-#### Smart Contract / DAOs
+#### Smart Contract DAOs
 - Stake Capital DAO: [Blog](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328) and [PDF](https://github.com/stake-capital/research/blob/master/Stake%20Capital%20DAO%20Light%20Paper.pdf)
 - [Staker DAO - Staking Derivatives on Tezos](https://www.stakerdao.com/)
 
@@ -47,7 +47,7 @@
 #### Programmable Staking
 - [Cryptium: Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE)<br/><br/>
 
-### Native / In-Protocol
+### Native In-Protocol
 
 #### Delegation Vouchers
 - [Chorus One: Delegation Vouchers](https://blog.chorus.one/delegation-vouchers/)
@@ -65,7 +65,7 @@
 #### Other
 - [Vest - Staking Reward Options](https://vest.io/#/)<br/><br/>
 
-### Research & Development
+### Research and Development
 
 #### Research Papers
 - [Competitive equilibria between staking and on-chain lending by Tarun Chitra](https://arxiv.org/abs/2001.00919)
