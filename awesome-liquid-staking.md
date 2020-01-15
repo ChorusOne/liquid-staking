@@ -73,7 +73,7 @@
 #### Detailed Technical Proposals
 - [Sunny Aggarwal - Design Specification for Staking Derivatives](https://forum.cosmos.network/t/a-design-for-fungible-staking-derivatives/2441)
 - [Interchain Accounts: Everett Proposal](https://github.com/cosmos/ics/issues/251)
-- [NEAR - Ideas for Smart Contract Delegation](https://research.nearprotocol.com/t/staking-and-delegation-via-smart-contract/43)
+- [NEAR - Ideas for Smart Contract Delegation](https://research.nearprotocol.com/t/staking-and-delegation-via-smart-contract/43) and [Staking Contract Design Spec](https://github.com/nearprotocol/NEPs/pull/27/files#diff-7ec232c276390edf926f159669d5388c)
 
 
 
