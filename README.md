@@ -16,11 +16,10 @@ The approaches we will investigate include:
 Note: since ICF funding was approved we've also identified [Stake Capital DAO](https://medium.com/stakecapital/introducing-stake-dao-by-stake-capital-claiming-future-yield-revenue-7059e0781328), [Stafi](http://stafi.io/), [Cryptium's Programmable Staking](https://www.youtube.com/watch?v=ntsvD4mw8yE) and [Staker DAO](https://www.stakerdao.com/) as relevant projects to investigate.
 
 The deliverable for the project are as follows:
-- A research report (30+ pages) 
-- An executive summary of the research (< 10 pages)  
+- [A research report](https://docs.google.com/document/d/1eP2w_pZEZlSbKDHqG-Zf5cZXbk2ZH4BWFEqu-KeoGeQ/edit#)
 - [A curated list of liquid staking products, services and ideas](/awesome-liquid-staking.md) 
 
-Within the research report we would try to take a 360° view of staking derivatives, covering the following areas: 
+Within the research report we are taking a 360° view of staking derivatives, covering the following areas: 
 - Impact on network security
 - Centralization risks
 - Impact on network governance
@@ -31,15 +30,11 @@ Within the research report we would try to take a 360° view of staking derivati
 
 We will maintain the focus on making this a community initiative. We will run calls every two weeks for the duration of the project. The project duration is four months, so as to allow plenty of time for collecting and reviewing input from the community. 
 
-The first milestones:
+The  milestones:
 - Project annoucement - Jan 10th
-- First community call - Wednesday, Jan 15th @ 5pm CET
-- Second community call - Wednesday, Jan 29th @ 5pm CET
+- Community calls (8 in total, to be found as [here](https://github.com/ChorusOne/liquid-staking/issues))
+- Release of the [research report draft](https://docs.google.com/document/d/1eP2w_pZEZlSbKDHqG-Zf5cZXbk2ZH4BWFEqu-KeoGeQ/edit#) - May 1st 
 
-Agenda for first call:
-- Overview of liquid staking
-- Introduction to some of the potential challenges
-- Discussion on Design Principles - what are the characteristics we'd like to see in an ideal liquid staking model?
 
 Chorus Team project roles:
 - Brendan Dillon - Strategy & Bus. Dev. - Brendan will be the overall project coordinator
